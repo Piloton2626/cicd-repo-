@@ -1,7 +1,10 @@
-package main 
+package main
 
-import("fmt")
+import (
+	"fmt"
+)
 
-func main(){
-	fmt.Println("welcome to the CI/CD") 
+func main() {
+	fmt.Println("welcome to the CI/CD")
+	fmt.Println("let's test the CI/CD basics pipeline")
 }
