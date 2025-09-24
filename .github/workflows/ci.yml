@@ -46,4 +46,4 @@ jobs:
           context: .
           file : ./Docker/Dockerfile
           push: true
-          tags: your-dockerhub-username/go-ci-demo:latest
+          tags: karanchezhian/go-ci-demo:latest
